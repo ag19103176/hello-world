@@ -1,2 +1,7 @@
 # hello-world
-hello ,this is my first github 
+#include<bits/stdc++.h>
+int main()
+{
+cout<<"hello"<<endl;
+return 0;
+}
